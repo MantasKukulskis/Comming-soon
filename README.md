@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://github.com/MantasKukulskis/comming-soon
 
-![alt text](./design.png)
+![alt text](./Full_view.png)
 
 ## 🎯 Project features/goals
 
