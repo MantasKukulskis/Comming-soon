@@ -13,24 +13,19 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/MantasKukulskis/astronaut
+Site published at: https://github.com/MantasKukulskis/comming-soon
 
-Design: https://www.pinterest.com/pin/464293042846052714/
+![alt text](./design.png)
 
 ## 🎯 Project features/goals
 
 - Github pages
-- big screen only (no responsive design)
+- repositive design
 - fixed width and in the center of the screen
 - social icons (FontAwesome)
 - Google Fonts
 - favicon
-- advanced CSS selectors
-- copyright symbol
-- button: user select none
-- button: hover state
-- main nav: hover state
-- main nav: selected menu option
+- HTML forms
 
 ## 🧰 Getting Started
 
@@ -54,7 +49,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/MantasKukulskis/astronaut.git
+   git clone https://github.com/MantasKukulskis/Comming-soon.git
    ```
 2. Install NPM packages
    ```sh
