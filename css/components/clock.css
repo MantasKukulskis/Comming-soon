@@ -1,33 +1,36 @@
 .clock {
   display: flex;
+  gap: 1rem 0;
   width: 100%;
-  gap: 1.5rem 0;
-  flex-wrap: wrap;
   color: #fff;
+  flex-wrap: wrap;
 }
+
 .clock > .time {
   display: flex;
   flex-direction: column;
+  gap: 0.2rem;
   width: 25%;
   text-align: center;
 }
+
 .clock > .time > .value {
   font-size: 4.5rem;
   font-weight: bold;
 }
+
 .clock > .time > .label {
   font-size: 1rem;
   text-transform: uppercase;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 44rem) {
   .clock > .time {
     width: 50%;
   }
-}
-
-@media (max-width: 500px) {
-  .clock > .time {
-    width: 100%;
+  @media (max-width: 31rem) {
+    .clock > .time {
+      width: 100%;
+    }
   }
 }
